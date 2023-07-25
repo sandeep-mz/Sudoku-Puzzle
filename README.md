@@ -19,8 +19,6 @@ The game will open in a new window, and you can start playing by selecting cells
 Use the mouse to click on a cell to select it, and then use the keyboard to enter numbers from 1 to 9.
 If you want to remove a number from a cell, press the Backspace key or the Delete key.
 The game may implement additional features such as a timer, check solution, and puzzle generation, depending on your project's progress.
-# Contributing
-This project is currently in its initial stages, and contributions are welcome. If you have any improvements or additional features to add, please follow the typical GitHub workflow:
 
 Fork the repository.
 Create a new branch for your feature: git checkout -b feature-name
