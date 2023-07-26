@@ -24,17 +24,30 @@ The game may implement additional features such as a timer, check solution, and 
 
 # Steps to Compile with some SS
 1. This is my Project design template.
-   ![design](https://github.com/sandeep-mz/Sudoku-Puzzle/assets/108665091/0e6b56ac-1c98-4d62-ad93-2a1e4c7dd2be)
-2. After compailing this is the 1st sate of our project. here we can see 9 panel and each panel contant 9 button that is called 9x9, and also contant 9 button as 1-9 number thats we can easly select number and fill that number in your choosen area, 4 buttons are there Exit, Reset, CheckSolve, checkMove.
-   ![initialState](https://github.com/sandeep-mz/Sudoku-Puzzle/assets/108665091/39bdb395-93fd-4ad7-90ce-451a25756cd8)
-3. This is our reset button, its reset your all current number that you are fill. Here some Pop-pup to confirm that your want to reset the game, in short he reset button empties the whole grid.
-   ![ResetButton](https://github.com/sandeep-mz/Sudoku-Puzzle/assets/108665091/8f480252-8648-4bc4-8a7c-f586ca7aedfd)
-4. Next, This is the our next button that is the CheckMoves - the check moves button checks whether the move is correct or not.
-   ![CheckMoves](https://github.com/sandeep-mz/Sudoku-Puzzle/assets/108665091/1a897461-f4a1-4bf8-a2b4-4ab645189481)
-5. Next, the solution button fills the grid with expected solutions.
-   ![seeSolve](https://github.com/sandeep-mz/Sudoku-Puzzle/assets/108665091/3d335348-9c62-4ac6-9728-99e842ae11c7)
-6. The exit button closes the execution. 
-   ![Exit](https://github.com/sandeep-mz/Sudoku-Puzzle/assets/108665091/01375636-42c1-4c4b-b488-563ede9253d1)
+   
+    ![Design](https://github.com/sandeep-mz/Sudoku-Puzzle/assets/108665091/a2c46fbc-06ec-474c-967b-1fd2b6ffed79)
 
+2. After compailing this is the 1st sate of our project. here we can see 9 panel and each panel contant 9 button that is called 9x9, and also contant 9 button as 1-9 number thats we can easly select number and fill that number in your choosen area, 4 buttons are there Exit, Reset, CheckSolve, checkMove.
+   
+    ![Initialstate](https://github.com/sandeep-mz/Sudoku-Puzzle/assets/108665091/d94122af-d2dd-442b-86c4-da611a7f8512)
+
+3. This is our reset button, its reset your all current number that you are fill. Here some Pop-pup to confirm that your want to reset the game, in short he reset button empties the whole grid.
+   
+  ![Reset](https://github.com/sandeep-mz/Sudoku-Puzzle/assets/108665091/3ab99b8b-ec9b-4dbf-b1de-74c0d5f1000b)
+
+4. Next, This is the our next button that is the CheckMoves - the check moves button checks whether the move is correct or not.
+   
+  ![CheckMoves](https://github.com/sandeep-mz/Sudoku-Puzzle/assets/108665091/020379e0-34e4-4a87-ad1f-ac2be74718f7)
+
+5. Next, the solution button fills the grid with expected solutions.
+    
+   ![CheckSolution](https://github.com/sandeep-mz/Sudoku-Puzzle/assets/108665091/63953476-63ea-478d-a206-9303cd726abf)
+
+   
+11. The exit button closes the execution. 
+
+   ![Exit](https://github.com/sandeep-mz/Sudoku-Puzzle/assets/108665091/4dc15b9e-3c07-4212-8811-ddbd297df33f)
+
+  
 # Contact✔️🔴
 If you have any questions or need further information about the project, you can contact the project owner at - @initialsandeep09@gmail.com.
