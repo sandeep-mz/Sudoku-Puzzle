@@ -39,11 +39,11 @@ The game may implement additional features such as a timer, check solution, and 
 
    ![CheckMoves](https://github.com/sandeep-mz/Sudoku-Puzzle/assets/108665091/020379e0-34e4-4a87-ad1f-ac2be74718f7)
 
-5. Next, the solution button fills the grid with expected solutions.
+7. Next, the solution button fills the grid with expected solutions.
 
    ![CheckSolution](https://github.com/sandeep-mz/Sudoku-Puzzle/assets/108665091/63953476-63ea-478d-a206-9303cd726abf)
 
-11. The exit button closes the execution.
+8. The exit button closes the execution.
    ![Exit](https://github.com/sandeep-mz/Sudoku-Puzzle/assets/108665091/4dc15b9e-3c07-4212-8811-ddbd297df33f)
 
   
